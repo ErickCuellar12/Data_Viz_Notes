@@ -1,0 +1,5 @@
+1. Data visualization tells a story
+2. Help upper management to understand the data
+3. It’s visually appealing 
+4. Most of the times contains charts 
+5. Communicates a clear message
